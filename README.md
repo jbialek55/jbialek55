@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, my name is Jakub Białek 👋
+### 🎓 Student at AGH University of Krakow
+**3rd year Computer Science and Intelligent Systems**
 
-<!--
-**jbialek55/jbialek55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Projects I took part in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Multiplayer Games Online Platform](https://github.com/jbialek55/multiplayer-games)**
+  - **Backend:** Python (FastAPI)
+  - **Frontend:** TypeScript
+  - **Hosting:** Oracle Cloud
+  - *A platform for playing multiplayer games online.*
+
+- **[TrumpScriptToPython](https://github.com/TKiK2026/TKiK/tree/main/projekt)**
+  - **Stack:** Python
+  - *Translator from the esoteric meme language TrumpScript into Python.*
+
+- **[PCBuilder](https://github.com/PZ2pcbuilder/projekt)**
+  - **Stack:** C# (.NET)
+  - *Web application designed for configuring custom PC builds.*
+
+---
