@@ -9,7 +9,7 @@
 - **[Multiplayer Games Online Platform](https://github.com/jbialek55/multiplayer-games)**
   - **Backend:** Python (FastAPI)
   - **Frontend:** TypeScript
-  - **Hosting:** Oracle Cloud
+  - **Hosting:** Render.com
   - *A platform for playing multiplayer games online.*
 
 - **[TrumpScriptToPython](https://github.com/TKiK2026/TKiK/tree/main/projekt)**
