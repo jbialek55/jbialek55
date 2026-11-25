@@ -5,12 +5,9 @@
 ---
 
 ### 🚀 Projects I took part in:
-
-- **[Multiplayer Games Online Platform](https://github.com/jbialek55/multiplayer-games)**
-  - **Backend:** Python (FastAPI)
-  - **Frontend:** TypeScript
-  - **Hosting:** Render.com
-  - *A platform for playing multiplayer games online.*
+- **[Flat Scraper](https://github.com/jbialek55/flat_scraper)**
+  - **Stack:** Python, Playwright, httpx, SQLite, Discord, Docker
+  - *Automated Otodom rental monitor that scrapes listings, tracks price changes in SQLite, and sends filtered Discord DM alerts.*
 
 - **[TrumpScriptToPython](https://github.com/TKiK2026/TKiK/tree/main/projekt)**
   - **Stack:** Python
